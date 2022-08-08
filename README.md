@@ -1,3 +1,3 @@
 # Learning-Management-System
 
-  Implemented using JAVA.
+Simple Console based Learning managament system. Implemented using JAVA.
